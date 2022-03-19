@@ -1,0 +1,57 @@
+.restautant-buttons {
+    list-style: none;
+    padding: 0px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.restautant-buttons__item {
+    width: 200px;
+    height: 60px;
+}
+
+.restautant-buttons__item:hover {
+    opacity: 0.6;
+    transition: 0.5s;
+}
+
+.restautant-buttons__item-btn-book {
+    margin-right: 40px;
+}
+
+.restautant-buttons__item-btn {
+    width: 200px;
+    height: 60px;
+    color: #ffffff;
+    line-height: 167%;
+    border-radius: 5px;
+}
+
+.restautant-buttons__item-btn-book-table {
+    background: #e8c300;
+}
+
+.restautant-buttons__item-btn-explore {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+@media screen and (max-width: 480px) {
+    .restautant-buttons__item {
+        width: 150px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .restautant-buttons__item-btn {
+        width: 150px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .restautant-buttons__item-btn-book {
+        margin-right: 5px;
+    }
+}

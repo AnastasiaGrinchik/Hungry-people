@@ -1,0 +1,140 @@
+.restautant-info {
+    display: flex;
+    padding: 0;
+    margin-right: 81px;
+    flex-direction: column;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 998px;
+    min-width: 600px;
+}
+
+@media screen and (max-width: 768px) {
+    .restautant-info {
+        min-width: 481px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .restautant-info {
+        min-width: 320px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .restautant-info {
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+
+    margin-right: 81px;
+}
+
+.restautant-info-item {
+    max-width: 998px;
+    
+    border: 2px solid red;
+    
+}
+
+.restautant-info-item-teo {
+    border: 2px solid white;
+    height: 139px;
+} // ?????
+
+
+.header-description__title-and-subtitle {
+    max-width: 998px;
+
+} 
+
+
+.restautant-info-item__subtitle {
+    margin: 0px;
+    height: 18.39px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 117%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    min-width: 998px;
+    margin-right: 81px;
+
+}
+
+.restautant-info-item__title {
+    margin: 0px;
+    font-family: Banny;
+    font-size: 96px;
+    text-align: center;
+    text-transform: uppercase;
+    min-width: 998px;
+    border: 1px solid green;
+}
+
+.restautant-button {
+    list-style: none;
+    padding: 0px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+
+}
+
+.restautant-button__item {
+    width: 200px;
+    height: 60px;
+    
+}
+
+.restautant-button__item-first {
+    margin-right: 40px;
+}
+
+.restautant-button__item-btn {
+    width: 200px;
+    height: 60px;
+    color: #FFFFFF;
+    line-height: 167%;
+    border-radius: 5px; 
+}
+
+.restautant-button__item-btn_yellow {
+    background: #E8C300;
+}
+
+.restautant-button__item-btn_opacity {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.restautant-info-item-button-down {
+    width: 40px;
+    height: 40px;
+    background-image: url("../../images/down-btn.svg");
+    background-size: contain;
+    margin-top:92px
+
+} */

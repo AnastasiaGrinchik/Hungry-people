@@ -1,0 +1,16 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/description/description.css);
+@import url(../blocks/description-item/description-item.css);
+@import url(../blocks/description-connection/description-connection.css);
+@import url(../blocks/description-list/description-list.css);
+@import url(../blocks/description-title-and-subtitle/description-title-and-subtitle.css);
+@import url(../blocks/header-list/header-list.css);
+@import url(../blocks/header-nav/header-nav.css);
+@import url(../blocks/restautant-buttons/restautant-buttons.css);
+@import url(../blocks/restautant-info/restautant-info.css);
+@import url(../blocks/restautant-info-item/restautant-info-item.css);
+@import url(../blocks/restautant-info-item-btn-down/restautant-info-item-btn-down.css);
+
+

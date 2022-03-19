@@ -1,0 +1,21 @@
+.header{
+    max-width: 1440px;
+    width: 100%;
+    min-height: 800px;
+    background-image: url(../../images/header-bg@2x.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+@media screen and (max-width: 950px) {
+    .header {
+        /* background-repeat: repeat; */
+    }
+}
+
+@media screen and (max-width: 745px) {
+    .header {
+        min-height: 2000px;
+    }
+}
